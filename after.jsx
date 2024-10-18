@@ -8,7 +8,7 @@ export function Home() {
       <Header />
       <MainContent>
         <Text as="h1" fontSize="title">
-          Welcome to Contoso
+          Welcome to React Brussels
         </Text>
         <Text as="p" fontSize="medium">
           Lorem ipsum...

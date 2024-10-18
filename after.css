@@ -1,0 +1,13 @@
+.theme {
+  --color-foreground: #eee;
+  --color-background: #111;
+  --font-size-large: 1.5rem;
+  --font-size-medium: 1.25rem;
+  --font-size-smol: 1rem;
+  --width-main: 819px;
+}
+
+.theme.dark {
+  --color-foreground: #111;
+  --color-background: #eee;
+}
